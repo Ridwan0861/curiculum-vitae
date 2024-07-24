@@ -1,7 +1,6 @@
 import EducationCard from "../component/education-card";
 import Foto from "../assets/ridwan.jpg";
 import ProjectCard from "../component/project-card";
-import React from "react";
 
 interface Project {
   name: string;

@@ -1,5 +1,3 @@
-import React from "react";
-
 const Navbar = () => {
   return (
     <div className="flex flex-row w-full justify-between px-5 py-4 shadow-md bg-custom-red text-white">
